@@ -54,6 +54,6 @@ curl -X POST https://safe-py-executor-498806096988.us-central1.run.app/execute \
 
 # Completion Details
 
-**Approximate Time Spent**: ~2–3 hours
+**Approximate Time Spent**: ~2–2.5 hours
 
 
